@@ -10,12 +10,12 @@
 
 ---
 
-## 🧭 Features
+## Features
 
-- 🌐 Interactive city map with fruit tree locations  
-- 🔍 Neighborhood search and tree filtering  
-- 🍏 Detailed view of selected trees and species  
-- 💡 Built using Java, JavaFX, and public data
+-  Interactive city map with fruit tree locations  
+-  Neighborhood search and tree filtering  
+-  Detailed view of selected trees and species  
+-  Built using Java, JavaFX, and public data
 
 ---
 
